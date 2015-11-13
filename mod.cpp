@@ -1,0 +1,10 @@
+name		= "Survive";
+author		= "Survive Dev-Team";
+action		= "";
+dir			= "@survive";
+logo		= "mod.paa";
+logoOver	= "mod.paa";
+picture		= "survive_client\textures\icon.paa";
+hidePicture	= 0;
+hideName	= 0;
+overview	= "";
